@@ -1,6 +1,5 @@
 import React from "react";
 import type PlayerType from "../Types/PlayerType";
-import PlayerCard from "./PlayerCard";
 import { RiDeleteBinLine } from "react-icons/ri";
 
 

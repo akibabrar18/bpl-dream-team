@@ -1,4 +1,3 @@
-import React from 'react';
 import BannerImg from '../assets/banner-main.png';
 import BannerShadow from '../assets/bg-shadow.png';
 const Banner = () => {

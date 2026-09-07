@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import Logo from '../assets/logo.png';
 import { FaDollarSign } from "react-icons/fa";
 
