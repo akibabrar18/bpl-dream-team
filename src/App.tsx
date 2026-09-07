@@ -5,7 +5,7 @@ import Players from "./components/Players";
 import type PlayerType from "./Types/PlayerType";
 
 const fetchPlayers = async (): Promise<PlayerType[]> => {
-  const response= await fetch('.././public/data.json');
+  const response= await fetch('data.json');
   const data = await response.json();
   return data;
 }
